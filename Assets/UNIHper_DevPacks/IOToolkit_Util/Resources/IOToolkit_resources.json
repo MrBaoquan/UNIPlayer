@@ -1,0 +1,11 @@
+{
+    "Persistence": [],
+
+    "SceneEntry": [
+        {
+            "driver": "Resources",
+            "type": "GameObject",
+            "path": "IOToolkit_Extension"
+        }
+    ]
+}

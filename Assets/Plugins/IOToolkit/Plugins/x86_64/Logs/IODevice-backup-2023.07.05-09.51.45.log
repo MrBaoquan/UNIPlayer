@@ -1,0 +1,929 @@
+[2023-07-05 08:42:56.325] [IO_Logger] [info] 
+
+
+------------------------------  (*^_^*) Welcome to use IOToolkit (*^_^*) ------------------------------
+		
+		Copyright(c) 	mrma617@gmail.com
+		Author :		MrBaoquan
+		
+------------------------------------------------------------------------------------------------------------
+[2023-07-05 08:42:56.325] [IO_Logger] [info] IODevice initialize successful. 
+
+[2023-07-05 08:42:56.325] [IO_Logger] [warning] ------------------------------  IOToolkit is alreay unloaded  ------------------------------
+
+[2023-07-05 08:42:56.325] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 08:42:56.329] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 08:42:56.329] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 08:42:56.331] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 08:42:56.388] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 08:42:56.388] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 08:42:56.388] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 08:42:56.392] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 08:42:56.392] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 08:42:56.392] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 08:42:56.397] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 08:42:56.397] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 08:42:56.398] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 08:42:56.398] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:42:56.398] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:42:57.369] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 08:42:57.369] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 08:42:57.374] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 08:42:57.374] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 08:42:57.374] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 08:42:57.374] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 08:42:57.390] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 08:42:57.390] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 08:42:57.390] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 08:42:57.391] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 08:42:57.391] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 08:42:57.391] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 08:42:57.391] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 08:42:57.391] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 08:42:57.391] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 08:42:57.391] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:42:57.391] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:43:12.684] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 08:48:38.433] [IO_Logger] [warning] ------------------------------  IOToolkit is alreay unloaded  ------------------------------
+
+[2023-07-05 08:48:38.433] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 08:48:38.434] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 08:48:38.434] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 08:48:38.435] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 08:48:38.435] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 08:48:38.454] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 08:48:38.454] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 08:48:38.454] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 08:48:38.458] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 08:48:38.458] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 08:48:38.458] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 08:48:38.462] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 08:48:38.462] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 08:48:38.463] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 08:48:38.463] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:48:38.463] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:48:38.878] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 08:48:38.879] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 08:48:38.881] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 08:48:38.881] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 08:48:38.881] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 08:48:38.881] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 08:48:38.889] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 08:48:38.889] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 08:48:38.889] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 08:48:38.889] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 08:48:38.889] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 08:48:38.889] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 08:48:38.890] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 08:48:38.890] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 08:48:38.890] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 08:48:38.890] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:48:38.890] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:49:35.206] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 08:53:02.879] [IO_Logger] [warning] ------------------------------  IOToolkit is alreay unloaded  ------------------------------
+
+[2023-07-05 08:53:02.879] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 08:53:02.882] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 08:53:02.882] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 08:53:02.882] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 08:53:02.882] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 08:53:02.904] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 08:53:02.904] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 08:53:02.904] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 08:53:02.908] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 08:53:02.908] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 08:53:02.908] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 08:53:02.912] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 08:53:02.913] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 08:53:02.913] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 08:53:02.913] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:53:02.914] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:53:03.360] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 08:53:03.360] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 08:53:03.362] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 08:53:03.362] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 08:53:03.362] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 08:53:03.362] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 08:53:03.382] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 08:53:03.382] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 08:53:03.382] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 08:53:03.382] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 08:53:03.382] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 08:53:03.383] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 08:53:03.383] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 08:53:03.383] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 08:53:03.383] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 08:53:03.383] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:53:03.383] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:53:39.362] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 08:54:07.169] [IO_Logger] [warning] ------------------------------  IOToolkit is alreay unloaded  ------------------------------
+
+[2023-07-05 08:54:07.169] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 08:54:07.171] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 08:54:07.171] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 08:54:07.171] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 08:54:07.171] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 08:54:07.199] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 08:54:07.199] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 08:54:07.199] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 08:54:07.203] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 08:54:07.203] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 08:54:07.203] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 08:54:07.208] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 08:54:07.208] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 08:54:07.208] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 08:54:07.208] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:54:07.208] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:54:07.684] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 08:54:07.684] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 08:54:07.686] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 08:54:07.686] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 08:54:07.686] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 08:54:07.686] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 08:54:07.694] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 08:54:07.694] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 08:54:07.694] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 08:54:07.695] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 08:54:07.695] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 08:54:07.695] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 08:54:07.695] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 08:54:07.695] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 08:54:07.695] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 08:54:07.695] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:54:07.696] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:55:18.901] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 08:55:18.902] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 08:55:18.903] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 08:55:18.903] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 08:55:18.903] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 08:55:18.903] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 08:55:18.930] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 08:55:18.930] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 08:55:18.930] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 08:55:18.930] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 08:55:18.930] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 08:55:18.930] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 08:55:18.930] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 08:55:18.931] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 08:55:18.931] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 08:55:18.931] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:55:18.931] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:55:19.400] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 08:55:19.400] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 08:55:19.402] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 08:55:19.402] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 08:55:19.402] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 08:55:19.402] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 08:55:19.431] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 08:55:19.431] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 08:55:19.431] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 08:55:19.431] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 08:55:19.431] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 08:55:19.431] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 08:55:19.431] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 08:55:19.431] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 08:55:19.431] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 08:55:19.432] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:55:19.432] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 08:55:58.438] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:16:51.258] [IO_Logger] [warning] ------------------------------  IOToolkit is alreay unloaded  ------------------------------
+
+[2023-07-05 09:16:51.258] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:16:51.260] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:16:51.260] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:16:51.260] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:16:51.260] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:16:51.282] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:16:51.282] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:16:51.283] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:16:51.287] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:16:51.287] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:16:51.287] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:16:51.291] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:16:51.291] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:16:51.292] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:16:51.292] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:16:51.292] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:16:52.004] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:16:52.005] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:16:52.006] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:16:52.007] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:16:52.007] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:16:52.007] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:16:52.023] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:16:52.023] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:16:52.023] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:16:52.023] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:16:52.023] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:16:52.023] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:16:52.023] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:16:52.023] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:16:52.023] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:16:52.023] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:16:52.024] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:16:54.772] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:16:54.773] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:16:54.776] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:16:54.776] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:16:54.776] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:16:54.776] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:16:54.822] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:16:54.822] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:16:54.822] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:16:54.822] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:16:54.822] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:16:54.822] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:16:54.822] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:16:54.822] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:16:54.823] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:16:54.823] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:16:54.823] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:16:55.294] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:16:55.294] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:16:55.296] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:16:55.296] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:16:55.296] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:16:55.296] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:16:55.329] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:16:55.329] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:16:55.329] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:16:55.329] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:16:55.329] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:16:55.329] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:16:55.330] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:16:55.330] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:16:55.330] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:16:55.330] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:16:55.330] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:17:01.484] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:17:01.484] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:17:01.487] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:17:01.487] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:17:01.487] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:17:01.487] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:17:01.509] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:17:01.509] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:17:01.509] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:17:01.509] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:17:01.509] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:17:01.509] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:17:01.510] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:17:01.510] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:17:01.510] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:17:01.510] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:17:01.510] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:17:01.856] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:17:01.856] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:17:01.858] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:17:01.858] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:17:01.858] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:17:01.858] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:17:01.870] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:17:01.870] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:17:01.870] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:17:01.871] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:17:01.871] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:17:01.871] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:17:01.871] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:17:01.871] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:17:01.871] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:17:01.871] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:17:01.871] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:17:04.906] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:17:04.906] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:17:04.908] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:17:04.908] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:17:04.908] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:17:04.908] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:17:04.928] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:17:04.928] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:17:04.928] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:17:04.928] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:17:04.928] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:17:04.928] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:17:04.928] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:17:04.928] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:17:04.929] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:17:04.929] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:17:04.929] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:17:05.214] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:17:05.214] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:17:05.216] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:17:05.216] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:17:05.216] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:17:05.216] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:17:05.228] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:17:05.228] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:17:05.228] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:17:05.228] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:17:05.229] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:17:05.229] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:17:05.229] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:17:05.229] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:17:05.229] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:17:05.229] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:17:05.229] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:17:07.874] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:17:07.875] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:17:07.877] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:17:07.877] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:17:07.877] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:17:07.877] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:17:07.907] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:17:07.907] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:17:07.907] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:17:07.908] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:17:07.908] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:17:07.908] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:17:07.908] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:17:07.908] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:17:07.908] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:17:07.908] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:17:07.908] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:17:08.227] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:17:08.227] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:17:08.229] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:17:08.229] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:17:08.229] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:17:08.229] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:17:08.240] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:17:08.240] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:17:08.240] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:17:08.240] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:17:08.241] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:17:08.241] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:17:08.241] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:17:08.241] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:17:08.241] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:17:08.241] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:17:08.241] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:17:11.072] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:22:26.698] [IO_Logger] [warning] ------------------------------  IOToolkit is alreay unloaded  ------------------------------
+
+[2023-07-05 09:22:26.698] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:22:26.700] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:22:26.700] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:22:26.700] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:22:26.700] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:22:26.720] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:22:26.720] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:22:26.720] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:22:26.724] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:22:26.724] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:22:26.724] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:22:26.728] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:22:26.728] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:22:26.728] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:22:26.728] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:22:26.728] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:22:27.132] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:22:27.132] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:22:27.136] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:22:27.137] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:22:27.137] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:22:27.137] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:22:27.146] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:22:27.146] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:22:27.146] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:22:27.147] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:22:27.147] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:22:27.147] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:22:27.147] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:22:27.147] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:22:27.147] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:22:27.147] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:22:27.147] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:22:38.927] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:22:38.928] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:22:38.930] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:22:38.930] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:22:38.930] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:22:38.930] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:22:38.956] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:22:38.956] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:22:38.956] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:22:38.957] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:22:38.957] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:22:38.957] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:22:38.958] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:22:38.958] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:22:38.958] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:22:38.958] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:22:38.958] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:22:39.376] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:22:39.377] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:22:39.378] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:22:39.378] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:22:39.379] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:22:39.379] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:22:39.394] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:22:39.394] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:22:39.394] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:22:39.394] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:22:39.394] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:22:39.394] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:22:39.395] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:22:39.395] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:22:39.395] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:22:39.395] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:22:39.395] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:23:30.507] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:23:30.507] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:23:30.509] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:23:30.509] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:23:30.509] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:23:30.509] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:23:30.533] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:23:30.533] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:23:30.533] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:23:30.534] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:23:30.534] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:23:30.534] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:23:30.534] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:23:30.534] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:23:30.534] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:23:30.534] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:23:30.534] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:23:30.946] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:23:30.946] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:23:30.948] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:23:30.948] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:23:30.948] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:23:30.948] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:23:30.973] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:23:30.973] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:23:30.973] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:23:30.974] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:23:30.974] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:23:30.974] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:23:30.974] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:23:30.974] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:23:30.974] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:23:30.974] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:23:30.974] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:24:31.556] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:24:31.556] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:24:31.558] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:24:31.558] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:24:31.558] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:24:31.558] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:24:31.591] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:24:31.591] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:24:31.591] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:24:31.591] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:24:31.591] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:24:31.591] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:24:31.591] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:24:31.591] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:24:31.591] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:24:31.592] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:24:31.592] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:24:32.029] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:24:32.029] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:24:32.031] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:24:32.031] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:24:32.031] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:24:32.031] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:24:32.046] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:24:32.047] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:24:32.047] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:24:32.047] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:24:32.047] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:24:32.047] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:24:32.047] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:24:32.047] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:24:32.047] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:24:32.047] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:24:32.047] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:24:35.056] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:24:35.056] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:24:35.058] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:24:35.058] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:24:35.058] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:24:35.058] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:24:35.075] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:24:35.075] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:24:35.075] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:24:35.076] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:24:35.076] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:24:35.076] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:24:35.076] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:24:35.076] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:24:35.076] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:24:35.076] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:24:35.076] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:24:35.392] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:24:35.393] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:24:35.394] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:24:35.394] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:24:35.395] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:24:35.395] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:24:35.401] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:24:35.401] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:24:35.401] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:24:35.401] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:24:35.401] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:24:35.401] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:24:35.402] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:24:35.402] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:24:35.402] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:24:35.402] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:24:35.402] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:24:40.522] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:25:45.635] [IO_Logger] [warning] ------------------------------  IOToolkit is alreay unloaded  ------------------------------
+
+[2023-07-05 09:25:45.635] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:25:45.637] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:25:45.638] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:25:45.638] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:25:45.638] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:25:45.659] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:25:45.659] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:25:45.659] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:25:45.663] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:25:45.663] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:25:45.663] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:25:45.667] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:25:45.667] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:25:45.668] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:25:45.668] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:25:45.668] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:25:46.075] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:25:46.075] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:25:46.077] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:25:46.077] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:25:46.077] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:25:46.077] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:25:46.105] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:25:46.105] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:25:46.105] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:25:46.105] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:25:46.105] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:25:46.106] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:25:46.106] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:25:46.106] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:25:46.106] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:25:46.106] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:25:46.106] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:26:10.788] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:26:10.788] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:26:10.790] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:26:10.790] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:26:10.790] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:26:10.790] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:26:10.810] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:26:10.810] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:26:10.810] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:26:10.810] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:26:10.811] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:26:10.811] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:26:10.811] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:26:10.811] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:26:10.811] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:26:10.811] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:26:10.811] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:26:11.124] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:26:11.124] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:26:11.126] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:26:11.126] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:26:11.126] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:26:11.126] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:26:11.139] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:26:11.139] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:26:11.139] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:26:11.139] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:26:11.139] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:26:11.139] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:26:11.140] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:26:11.140] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:26:11.140] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:26:11.140] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:26:11.140] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:26:14.709] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:29:45.867] [IO_Logger] [warning] ------------------------------  IOToolkit is alreay unloaded  ------------------------------
+
+[2023-07-05 09:29:45.867] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:29:45.869] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:29:45.869] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:29:45.869] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:29:45.869] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:29:45.896] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:29:45.896] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:29:45.896] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:29:45.902] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:29:45.903] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:29:45.903] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:29:45.907] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:29:45.907] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:29:45.907] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:29:45.907] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:29:45.908] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:29:46.328] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:29:46.328] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:29:46.329] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:29:46.329] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:29:46.330] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:29:46.330] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:29:46.346] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:29:46.346] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:29:46.346] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:29:46.346] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:29:46.347] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:29:46.347] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:29:46.347] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:29:46.347] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:29:46.347] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:29:46.347] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:29:46.347] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:29:51.064] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:29:51.065] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:29:51.066] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:29:51.066] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:29:51.066] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:29:51.066] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:29:51.090] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:29:51.090] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:29:51.090] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:29:51.091] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:29:51.091] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:29:51.091] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:29:51.091] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:29:51.091] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:29:51.091] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:29:51.091] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:29:51.091] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:29:51.442] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:29:51.442] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:29:51.444] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:29:51.444] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:29:51.445] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:29:51.445] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:29:51.462] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:29:51.462] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:29:51.462] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:29:51.462] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:29:51.462] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:29:51.462] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:29:51.462] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:29:51.462] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:29:51.463] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:29:51.463] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:29:51.463] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:29:59.510] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:29:59.510] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:29:59.512] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:29:59.512] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:29:59.512] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:29:59.512] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:29:59.533] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:29:59.533] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:29:59.533] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:29:59.533] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:29:59.533] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:29:59.533] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:29:59.534] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:29:59.534] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:29:59.534] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:29:59.534] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:29:59.534] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:29:59.887] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:29:59.887] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:29:59.890] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:29:59.890] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:29:59.890] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:29:59.890] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:29:59.910] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:29:59.910] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:29:59.910] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:29:59.911] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:29:59.911] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:29:59.911] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:29:59.912] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:29:59.912] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:29:59.912] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:29:59.912] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:29:59.912] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:30:05.924] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:31:13.699] [IO_Logger] [warning] ------------------------------  IOToolkit is alreay unloaded  ------------------------------
+
+[2023-07-05 09:31:13.699] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:31:13.700] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:31:13.700] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:31:13.700] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:31:13.700] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:31:13.717] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:31:13.717] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:31:13.717] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:31:13.721] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:31:13.722] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:31:13.722] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:31:13.726] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:31:13.726] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:31:13.726] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:31:13.726] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:13.726] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:14.142] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:31:14.142] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:31:14.146] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:31:14.146] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:31:14.147] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:31:14.147] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:31:14.164] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:31:14.164] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:31:14.164] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:31:14.164] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:31:14.164] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:31:14.164] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:31:14.165] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:31:14.165] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:31:14.165] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:31:14.165] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:14.165] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:20.793] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:31:20.793] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:31:20.794] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:31:20.795] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:31:20.795] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:31:20.795] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:31:20.815] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:31:20.815] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:31:20.815] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:31:20.815] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:31:20.816] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:31:20.816] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:31:20.816] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:31:20.816] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:31:20.816] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:31:20.816] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:20.816] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:21.175] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:31:21.176] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:31:21.177] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:31:21.177] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:31:21.177] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:31:21.177] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:31:21.187] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:31:21.187] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:31:21.187] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:31:21.188] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:31:21.188] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:31:21.188] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:31:21.188] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:31:21.188] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:31:21.188] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:31:21.188] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:21.188] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:26.656] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:31:26.656] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:31:26.658] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:31:26.658] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:31:26.658] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:31:26.658] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:31:26.696] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:31:26.696] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:31:26.696] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:31:26.697] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:31:26.697] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:31:26.697] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:31:26.697] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:31:26.697] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:31:26.697] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:31:26.697] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:26.697] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:27.026] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:31:27.026] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:31:27.028] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:31:27.028] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:31:27.028] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:31:27.028] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:31:27.046] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:31:27.046] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:31:27.046] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:31:27.046] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:31:27.046] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:31:27.046] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:31:27.046] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:31:27.046] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:31:27.046] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:31:27.046] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:27.046] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:32.877] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:31:32.877] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:31:32.880] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:31:32.880] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:31:32.880] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:31:32.880] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:31:32.909] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:31:32.909] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:31:32.909] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:31:32.909] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:31:32.909] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:31:32.909] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:31:32.910] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:31:32.910] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:31:32.910] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:31:32.910] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:32.910] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:33.264] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:31:33.264] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:31:33.267] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:31:33.267] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:31:33.267] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:31:33.267] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:31:33.280] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:31:33.280] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:31:33.280] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:31:33.281] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:31:33.281] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:31:33.281] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:31:33.281] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:31:33.281] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:31:33.281] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:31:33.281] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:33.281] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:36.775] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:31:36.775] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:31:36.777] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:31:36.777] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:31:36.777] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:31:36.777] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:31:36.792] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:31:36.792] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:31:36.792] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:31:36.792] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:31:36.792] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:31:36.792] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:31:36.792] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:31:36.793] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:31:36.793] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:31:36.793] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:36.793] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:37.083] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:31:37.083] [IO_Logger] [info] ------------------------------  IOToolkit Loading...  ------------------------------
+[2023-07-05 09:31:37.084] [IO_Logger] [info] Hook Window: UNIPlayer - SceneEntry - Windows, Mac, Linux - Unity 2022.1.0f1 <DX11>; PID: 32792; TID: 31012
+[2023-07-05 09:31:37.085] [IO_Logger] [info] Hook Window: __wglDummyWindowFodder; PID: 32792; TID: 22476
+[2023-07-05 09:31:37.085] [IO_Logger] [info] Create Standard IO <Standard> succeed.
+[2023-07-05 09:31:37.085] [IO_Logger] [info] Create device <Standard> succeed.
+[2023-07-05 09:31:37.091] [IO_Logger] [info] Create External IO <IOUI> succeed. index is:0
+[2023-07-05 09:31:37.091] [IO_Logger] [info] Create device <default> succeed.
+[2023-07-05 09:31:37.091] [IO_Logger] [info] ------------------------------  IOToolkit Loaded  ------------------------------
+[2023-07-05 09:31:37.091] [IO_Logger] [info] Bind delegate for Action v2 succeed. device name: default
+[2023-07-05 09:31:37.091] [IO_Logger] [info] Bind delegate for Action v3 succeed. device name: default
+[2023-07-05 09:31:37.091] [IO_Logger] [info] Bind delegate for Action v4 succeed. device name: default
+[2023-07-05 09:31:37.092] [IO_Logger] [info] Bind delegate for Action a1 succeed. device name: default
+[2023-07-05 09:31:37.092] [IO_Logger] [info] Bind delegate for Action a2 succeed. device name: default
+[2023-07-05 09:31:37.092] [IO_Logger] [info] Bind delegate for axis pitch succeed. device name: default
+[2023-07-05 09:31:37.092] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:37.092] [IO_Logger] [info] Bind delegate for Action v1 succeed. device name: default
+[2023-07-05 09:31:50.177] [IO_Logger] [info] ------------------------------  IOToolkit has been unloaded  ------------------------------
+
+[2023-07-05 09:51:45.919] [IO_Logger] [info] ------------------------------  IOToolkit has been detached, Bye!  ------------------------------

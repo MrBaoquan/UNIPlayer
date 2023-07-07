@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<body>
+	<Server IP="127.0.0.1" Port="1234"/>
+	<!-- name:"展项名称" identifier:"展项编号" compidentifier:公司编号(A3)不用动-->
+	<Game name="地球的力量" identifier="3A-01-03C" compidentifier="A3">
+	</Game>
+</body>

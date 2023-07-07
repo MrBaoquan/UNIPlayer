@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<UNIPlayerSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AutoBack2Idle>600</AutoBack2Idle>
+  <Event onLongTimeNoInteractive="Back2Idle();" />
+  <IOActionList />
+  <IdlePage url="Videos/待机.mp4" />
+  <VideoPage>
+    <VideoList>
+      <Video url="Videos\视频示例1.mp4" trigger="v1" />
+      <Video url="Videos\视频示例2.mp4" trigger="v2" />
+    </VideoList>
+  </VideoPage>
+  <AudioPage />
+</UNIPlayerSettings>

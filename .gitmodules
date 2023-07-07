@@ -1,0 +1,13 @@
+[submodule "Packages/com.parful.unihper"]
+	path = Packages/com.parful.unihper
+	url = https://github.com/mrbaoquan/unihper.git
+	branch = master
+[submodule "Packages/com.parful.uniart"]
+	path = Packages/com.parful.uniart
+	url = https://github.com/mrbaoquan/uniart.git
+[submodule "Packagescom.parful.unihper"]
+	path = Packagescom.parful.unihper
+	url = https://github.com/mrbaoquan/unihper.git
+[submodule "Packagescom.parful.uniart"]
+	path = Packagescom.parful.uniart
+	url = https://github.com/mrbaoquan/uniart.git

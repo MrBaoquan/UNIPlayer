@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NetBridge xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LocalIP="127.0.0.1" LocalPort="22222">
+  <!--
+        通过网络向本应用发送如下格式的数据包，即可执行相应的任务：
+        {
+            "TaskName": "ExecuteScript",    // 任务名称
+            "TaskParams": [                   // 任务参数
+                "PlayVideo(v1);"
+            ]
+        }
+        -->
+  <debugContent>{"TaskName":"ExecuteScript","TaskParams":["PlayVideo(v1);"]}</debugContent>
+</NetBridge>

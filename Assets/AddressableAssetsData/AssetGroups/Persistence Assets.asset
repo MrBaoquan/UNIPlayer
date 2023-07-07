@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Persistence Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Persistence Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d1173f4c8a871c54392c248d6f3e491a
+  m_SerializeEntries:
+  - m_GUID: e66dc7cb8a6e52c438cbc0fa0c7c1001
+    m_Address: Assets/ArtAssets/UI Pages
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fa3c649a412bda24bb87c560aabb9c97, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 76fe68a3a3d5c0e469f8d98dae9ad270, type: 2}
+    - {fileID: 11400000, guid: 6b304875caa453547ad12f520f6c39c7, type: 2}

@@ -1,0 +1,31 @@
+{
+    "Persistence": {
+        "TipUI": {
+            "asset": "TipUI",
+            "type": "Popup",
+            "canvas": "CanvasDefault"
+        },
+        "VideoControlUI": {
+            "asset": "VideoControlUI",
+            "type": "Popup",
+            "canvas": "CanvasDefault"
+        }
+    },
+    "SceneEntry": {
+        "IdleUI": {
+            "asset": "IdleUI",
+            "type": "Standalone",
+            "canvas": "CanvasDefault"
+        },
+        "VideoPlayerUI": {
+            "asset": "VideoPlayerUI",
+            "type": "Normal",
+            "canvas": "CanvasDefault"
+        },
+        "UNIPlayerConsole": {
+            "asset": "UNIPlayerConsole",
+            "type": "Normal",
+            "canvas": "CanvasDefault"
+        }
+    }
+}

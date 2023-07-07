@@ -1,0 +1,3 @@
+﻿<ChairDevice speed="5" lim_speed="10" lim_pitch="25" lim_roll="25">
+	<UDP ip="162.16.1.37" port="6666" localPort="6677"></UDP>
+</ChairDevice>

@@ -1,0 +1,27 @@
+﻿<Rplidar PortName="COM7" BaudRate="115200" AngleOffset="0" DebugRadius="6.999998" DebugMode="0" DebugUIScale="0.5">
+	<TouchArea Width="1920" Height="1080">
+		<Point x="-4.901496" y="-4.749499"/>
+		<Point x="-1.460500" y="-4.749499"/>
+		<Point x="-1.460500" y="-2.873999"/>
+		<Point x="-4.901496" y="-2.873999"/>
+	</TouchArea>
+	<TouchArea Width="1080" Height="1920">
+		<Point x="2.890999" y="-4.736501"/>
+		<Point x="4.778501" y="-4.736501"/>
+		<Point x="4.778501" y="-2.549001"/>
+		<Point x="2.890999" y="-2.549001"/>
+	</TouchArea>
+	<TouchArea Width="1920" Height="1080">
+		<Point x="-3.731500" y="0.670500"/>
+		<Point x="-2.306500" y="0.670500"/>
+		<Point x="-2.306500" y="2.708000"/>
+		<Point x="-3.731500" y="2.708000"/>
+	</TouchArea>
+	<TouchArea Width="1920" Height="1080">
+		<Point x="-0.576499" y="1.887001"/>
+		<Point x="5.181000" y="1.887001"/>
+		<Point x="5.181000" y="4.862000"/>
+		<Point x="-0.576499" y="4.862000"/>
+	</TouchArea>
+</Rplidar>
+

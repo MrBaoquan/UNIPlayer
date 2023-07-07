@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IORoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Device Name="default" Type="External" DllName="IOUI" Index="0">
+    <Action Name="v1">
+      <Key Name="Button_00" />
+      <Key Name="One" />
+    </Action>
+    <Action Name="v2">
+      <Key Name="Button_01" />
+      <Key Name="Two" />
+    </Action>
+    <Action Name="v3">
+      <Key Name="Button_02" />
+      <Key Name="Three" />
+    </Action>
+    <Action Name="a1">
+      <Key Name="Button_03" />
+      <Key Name="Four" />
+    </Action>
+    <Action Name="a2">
+      <Key Name="Button_04" />
+      <Key Name="Five" />
+    </Action>
+    <OAction Name="pitch">
+      <Key Name="OAxis_00" />
+    </OAction>
+    <OAction Name="RoomLight">
+      <Key Name="OAxis_01" Scale="10" />
+      <Key Name="OAxis_02" Scale="100" />
+    </OAction>
+  </Device>
+</IORoot>

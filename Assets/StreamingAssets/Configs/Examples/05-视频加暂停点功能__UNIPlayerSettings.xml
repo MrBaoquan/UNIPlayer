@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<UNIPlayerSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AutoBack2Idle="600" MinIdleTime="0.1">
+  <Event onLongTimeNoInteractive="Back2Idle();" />
+  <IdlePage url="Videos/待机.mp4" />
+  <VideoPage>
+    <Video url="Videos\飞船发射.mp4" trigger="v1">
+      <PausePoint time="3" autoContinueTime="3" continueAction="continue1">
+        <Image width="720" height="340" url="Textures\示例图1.jpg" />
+      </PausePoint>
+      <PausePoint time="10" continueAction="continue1">
+        <Image width="720" height="340" url="Textures\示例图2.jpg" />
+      </PausePoint>
+    </Video>
+  </VideoPage>
+  <AudioPage>
+    <Audio url="Audios\A1.wav" trigger="a1" />
+    <Audio url="Audios\A2.wav" trigger="a2" />
+  </AudioPage>
+</UNIPlayerSettings>

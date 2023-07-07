@@ -1,0 +1,17 @@
+﻿<MPRoot>
+	<ChairDevice
+		command="A3T"
+	
+		time="1000"
+		lim_time="5000"
+		lim_pitch="25"
+		lim_yaw="25"
+		lim_roll="25"
+		lim_x="255"
+		lim_y="255"
+		lim_z="255"
+		lim_angle="360"
+	>
+		<UDP ip="127.0.0.1" port="6666" localPort="6677"></UDP>
+	</ChairDevice>	
+</MPRoot>

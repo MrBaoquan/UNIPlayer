@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<UNIPlayerSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AutoBack2Idle="600" MinIdleTime="0.1">
+  <Event onLongTimeNoInteractive="Back2Idle();" />
+  <IdlePage url="Videos/待机.mp4" />
+  <VideoPage>
+    <Video url="Videos\视频示例1.mp4" trigger="v1" />
+    <Video url="Videos\视频示例2.mp4" trigger="v2" />
+    <Video url="Videos\飞船发射.mp4" trigger="v3" />
+  </VideoPage>
+  <AudioPage>
+    <Audio url="Audios\A1.wav" trigger="a1" />
+    <Audio url="Audios\A2.wav" trigger="a2" />
+  </AudioPage>
+</UNIPlayerSettings>

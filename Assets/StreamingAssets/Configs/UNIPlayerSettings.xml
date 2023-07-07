@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<UNIPlayerSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AutoBack2Idle="600" MinIdleTime="0.1">
+  <!--
+    ========================================  注释 开始 ========================================
+    - AutoBack2Idle: 自动返回待机时间
+    - MinIdleTime:   最小待机时间 (秒)  进入待机界面后, 该时间内不会触发视频页
+
+    <Event>
+        - onEnterIdle:      进入待机界面时调用
+        - onLeaveIdle:      离开待机界面时调用
+        - onVideoStarted:   任意视频开始播放时调用
+        - onVideoFinished:  任意视频播放完成时调用
+        - onAudioStarted:   任意音频播放时调用
+        - onAudioFinished:  任意音频播放结束时调用 (未实现)
+
+    <IOEvent>
+        - trigger:     触发器标识   用法见下文 <IO绑定形式约定>
+        - onTrigger:    触发时调用
+
+    <Video/Audio>
+        - trigger:      触发器标识   用法见下文 <IO绑定形式约定>
+        - url:          视频/音频路径   *.mp4   *.mp3   *.wav
+        - startTime:    开始时间[仅视频有效]
+        - endTime:      结束时间[仅视频有效]
+        - loop:         是否循环播放[仅视频有效]
+        - volume:       音量[0-1]
+        - mute:         是否静音播放
+        - playbackRate  播放速度[仅视频有效]
+        - interruptable 播放中是否可被中断[仅视频有效]
+        - onStarted:    视频开始播放执行
+        - onFinished:   视频播放到结尾时执行
+        - playmode:     播放模式    默认为autoplay   autoplay 自动播放      sync 同步播放       accumulate 累积播放 [仅视频有效]
+        - dataSource:   与playmode结合使用   作为模式为非autoplay模式外的播放进度映射数据源                          [仅视频有效]
+    
+    <PausePoint>
+        功能描述: 视频播放到某一时间点时暂停, 等待用户操作后继续播放        [Video结点下可用]
+        - time:                 暂停时间点
+        - autoContinueTime:     自动继续时间
+        - continueAction:       触发该操作时继续播放
+    
+    <RangeTrigger>
+        功能描述: 视频播放到某一时间段时执行相关操作                        [Video结点下可用]
+        - startTime:            起始时间
+        - endTime:              结束时间
+        - onEnter:              进入区间时执行
+        - onLeave:              离开区间时执行
+        - action:               action绑定
+        - onAction:             在区间内, 触发action时执行
+
+    事件属性下可用函数:
+        - Await(Time):                  例 Await(3000)                  解释: 等待3000ms后执行后续语句
+        - Back2Idle():                                                  解释: 返回待机
+        - PlayVideo(Trigger):           例 PlayVideo(v1)                解释: 播放trigger为v1的视频
+        - PlaySound(Trigger):           例 PlayAudio(a1)                解释: 播放trigger为a1的音频 (播放会打断上一个正在播放的音频)
+        - PlaySoundEffect(Trigger):     例 PlaySound(a1)                解释: 播放trigger为a1的音效 (可以同时播放多个音效)
+        - PlayBGMusic(Trigger,Volume)   例: PlayBGMusic(a1,0.5)         解释: 播放trigger为a1的背景音乐 音量调为0.5
+        - StopSound():                  例: StopSound()                 解释: 停止播放音频
+        - StopSoundEffect():            例: StopSoundEffect()           解释: 停止播放所有音效
+        - StopBGMusic():                例: StopBGMusic()               解释: 停止播放背景音乐
+        - SetDOOn(OAction):             例 SetDOOn(TurnLight)           解释: IO模块调用default设备下OAction[Name]为TurnOnLight的结点
+        - SetDOOn(Device,OAction):      例 SetDOOn(PCI2312A,TurnLight)  解释: IO模块调用PCI2312A设备下OAction[Name]为TurnOnLight的结点
+        - SetDOOff(OAction), SetDOOff(Device,OAction): 同上
+        - SetDO(OAction,Value):         例 SetDO(Pitch,10)              解释: IO模块调用default设备OAction[Name]为Pitch的结点, 并将输出值设为10
+        - SetDO(Device,OAction,Value):  例 SetDO(PCI8735,Pitch,10)      解释: IO模块调用PCI8735设备OAction[Name]为Pitch的结点, 并将输出值设为10
+        - SetDOKey(KeyName,Value):      例 SetDOKey(OAxis_00, 1)        解释: IO模块将default设备的输出通道0设置输出值为1
+        - SetDOKey(Device,KeyName,Value): 例 SetDOKey(PCI8735,OAxis_00, 1) 解释: IO模块将PCI8735设备的输出通道0设置输出值为1
+
+    @IO绑定形式约定
+        例: trigger='startGame'             绑定default设备下的startGame的pressed事件
+        例: trigger='default:v1@pressed'    绑定default设备下v1的pressed事件
+        例: trigger='default:Pitch@axis'    绑定default设备下的Pitch的axis数据
+
+    @函数示例:
+        例: Await(3000);Back2Idle();                    解释: 3秒后返回待机
+        例: Await(5000);PlayVideo(v1);                  解释: 5秒后播放Video[trigger]为v1的视频
+        例: Await(3000);SetDOOn(TurnOnLight);           解释: 3秒后 将default设备OAction[Name]为TurnOnLight的结点置位高电平
+    ========================================  注释 结束 ========================================
+    -->
+  <Event onLongTimeNoInteractive="Back2Idle();" />
+  <IdlePage url="Videos/待机.mp4" />
+  <VideoPage>
+    <Video url="Videos\视频示例1.mp4" trigger="v1" />
+    <Video url="Videos\视频示例2.mp4" trigger="v2" />
+    <Video url="Videos\飞船发射.mp4" trigger="v3" />
+  </VideoPage>
+  <AudioPage>
+    <Audio url="Audios\A1.wav" trigger="a1" />
+    <Audio url="Audios\A2.wav" trigger="a2" />
+  </AudioPage>
+</UNIPlayerSettings>

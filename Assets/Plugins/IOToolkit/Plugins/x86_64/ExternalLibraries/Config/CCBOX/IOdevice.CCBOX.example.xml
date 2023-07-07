@@ -1,0 +1,102 @@
+<!--
+  Copyright (c) mrma617@gmail.com
+  Author: MrBaoquan
+  CreateTime: 2018-5-16 9:10
+-->
+
+<IORoot>
+
+  <Device Name="Standard" Type="Standard" />
+
+	<!-- 中控盒示例 -->
+  <Device Name="CCBOX" Type="External" DllName="CCBOX_SD">
+
+    <!-- 参与次数  -->
+     <OAction Name="Join">
+      <Key Name="OAxis_00" Scale="1"/>
+      <Key Name="OAxis_01" Scale="1"/>
+      <Key Name="OAxis_02" Scale="0"/>
+    </OAction>
+
+    <!-- 按钮 0  -->
+    <OAction Name="Button_00">
+      <Key Name="OAxis_00" Scale="1"/>
+      <Key Name="OAxis_01" Scale="0"/>
+      <Key Name="OAxis_02" Scale="0"/>
+    </OAction>
+
+    <!-- 按钮 1 -->
+    <OAction Name="Button_01">
+      <Key Name="OAxis_00" Scale="1"/>
+      <Key Name="OAxis_01" Scale="0"/>
+      <Key Name="OAxis_02" Scale="1"/>
+    </OAction>
+
+    <!-- 手柄 -->
+    <OAction Name="Controller">
+      <Key Name="OAxis_00" Scale="1"/>
+      <Key Name="OAxis_01" Scale="2"/>
+      <Key Name="OAxis_02" Scale="0"/>
+    </OAction>
+
+    <!-- 摇杆 -->
+    <OAction Name="Joystick">
+      <Key Name="OAxis_00" Scale="1"/>
+      <Key Name="OAxis_01" Scale="3"/>
+      <Key Name="OAxis_02" Scale="0"/>
+    </OAction>
+
+    <!-- 旋钮 -->
+    <OAction Name="Knob">
+      <Key Name="OAxis_00" Scale="1"/>
+      <Key Name="OAxis_01" Scale="6"/>
+      <Key Name="OAxis_02" Scale="0"/>
+    </OAction>
+
+    <!-- 传感器 -->
+    <OAction Name="Sensor">
+      <Key Name="OAxis_00" Scale="1"/>
+      <Key Name="OAxis_01" Scale="7"/>
+      <Key Name="OAxis_02" Scale="0"/>
+    </OAction>
+
+    <!-- 摄像头 -->
+    <OAction Name="Camera">
+      <Key Name="OAxis_00" Scale="1"/>
+      <Key Name="OAxis_01" Scale="9"/>
+      <Key Name="OAxis_02" Scale="0"/>
+    </OAction>
+
+    <!-- 雷达 -->
+    <OAction Name="Radar">
+      <Key Name="OAxis_00" Scale="1"/>
+      <Key Name="OAxis_01" Scale="10"/>
+      <Key Name="OAxis_02" Scale="0"/>
+    </OAction>
+
+    <!-- 读卡器 -->
+    <OAction Name="Reader">
+      <Key Name="OAxis_00" Scale="1"/>
+      <Key Name="OAxis_01" Scale="13"/>
+      <Key Name="OAxis_02" Scale="0"/>
+    </OAction>
+
+    <!--  滑杆 -->
+    <OAction Name="Slider">
+      <Key Name="OAxis_00" Scale="1"/>
+      <Key Name="OAxis_01" Scale="14"/>
+      <Key Name="OAxis_02" Scale="0"/>
+    </OAction>
+
+    <!-- 体感 -->
+    <OAction Name="Kinect">
+      <Key Name="OAxis_00" Scale="1"/>
+      <Key Name="OAxis_01" Scale="16"/>
+      <Key Name="OAxis_02" Scale="0"/>
+    </OAction>
+  
+
+  </Device>
+
+
+</IORoot>
